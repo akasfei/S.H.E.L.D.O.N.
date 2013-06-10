@@ -1,0 +1,55 @@
+@font-face {
+  font-family: "source";
+  src: url("../font/SourceSansPro/SourceSansPro-Regular.otf");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "source-l";
+  src: url("../font/SourceSansPro/SourceSansPro-Light.otf");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "source-code";
+  src: url("../font/SourceCodePro/SourceCodePro-Regular.otf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: "source", Helvetica, sans-serif;
+  color: #456;
+}
+
+header{
+  text-align: center;
+}
+
+header > * {
+
+}
+
+header > h1 {
+  font-size: 48px;
+}
+
+.pure-g-r {
+  text-align: center;
+}
+
+.thumbnail {
+  display: inline-block;
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid #bcd;
+  text-align: center;
+  -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.thumbnail a {
+  display: inline-block;
+  color: #678;
+}
