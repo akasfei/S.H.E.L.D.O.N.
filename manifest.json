@@ -1,0 +1,16 @@
+{
+  "name": "shiverview-sheldon",
+  "desc": "The Surprisingly Helpful Emotional Language Data Optimized Network - S.H.E.L.D.O.N.",
+  "path": "/SHELDON",
+  "static": "static",
+  "ui": {
+    "icon": "favicon.png",
+    "navName": "S.H.E.L.D.O.N.",
+    "index": 10,
+    "href": "/SHELDON"
+  },
+  "privileges": { },
+  "dependencies": {
+    "shiverview-core-ui": "*"
+  }
+}

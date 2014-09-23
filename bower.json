@@ -1,0 +1,12 @@
+{
+  "name": "shiverview-sheldon",
+  "main": "index.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/akasfei/S.H.E.L.D.O.N.",
+  "authors": [
+    "akasfei <akasfei@gmail.com>"
+  ],
+  "description": "The Surprisingly Helpful Emotional Language Data Optimized Network - S.H.E.L.D.O.N.",
+  "license": "MIT",
+  "dependencies": { }
+}
