@@ -1,0 +1,9 @@
+# Site settings
+title: "S.H.E.L.D.O.N."
+description: "the Surprisingly Helpful Emotional Language Data Optimized Network"
+baseurl: "/S.H.E.L.D.O.N." # the subpath of your site
+url: "http://labs.ssiops.org/S.H.E.L.D.O.N./" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+highlighter: rogue
